@@ -115,10 +115,10 @@ expo start
 # Demo Videos
 
 ## Android
-[![android](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/xsFvR0S1Y8g)
+[![android](./videos/android.png)](https://youtu.be/xsFvR0S1Y8g)
 
 ## iOS
-[![ios](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/LyDBvAKCog8)
+[![ios](./videos/ios.png)](https://youtu.be/LyDBvAKCog8)
 
 
 
