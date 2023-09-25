@@ -19,7 +19,6 @@ export default function App() {
   const [fontsLoaded] = useFonts({
     'AvenirNext-Bold': require('./assets/fonts/Avenir_Next_Pro/AvenirNextLTPro-Bold.otf'),
     'AvenirNext-Demi': require('./assets/fonts/Avenir_Next_Pro/AvenirNextLTPro-Demi.otf'),
-    'AvenirNext-Bold': require('./assets/fonts/Avenir_Next_Pro/AvenirNextLTPro-Bold.otf'),
     'AvenirNext-Medium': require('./assets/fonts/Avenir_Next_Pro/AvenirNextLTPro-Medium.otf'),
     'AvenirNext-Regular': require('./assets/fonts/Avenir_Next_Pro/AvenirNextLTPro-Regular.otf'),
   });
